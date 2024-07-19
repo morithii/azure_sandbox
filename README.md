@@ -1,11 +1,72 @@
 # Hi, I'm Morithi, an IT Professional ☺
 
-I've actively managed and implemented a series of technical projects using Microsoft Azure that have honed my skills in cloud infrastructure, networking, and system administration. Key projects include:
+<p align="center">
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="Azure Projects logo"/>
+</p>
 
-osTicket Implementation: Successfully deployed the osTicket help desk ticketing system on Azure, managing all aspects from initial setup to post-installation configurations and ticket lifecycle management. This project sharpened my abilities in application deployment and operational troubleshooting.
+<h1>Azure Hands-On Projects Summary</h1>
+This summary outlines various hands-on projects completed using Microsoft Azure and related technologies.<br />
 
-Active Directory on Azure VMs: Configured and maintained on-premises Active Directory on Azure Virtual Machines, leveraging Windows Server 2022 and Windows 10. This involved extensive use of Remote Desktop, Active Directory Domain Services, and PowerShell, enhancing my expertise in identity management and remote administration.
+<h2>Projects Overview</h2>
+- osTicket Installation and Configuration
+- Active Directory Setup in Azure VMs
+- Network Security and Traffic Analysis
 
-Network Security and Analysis: Conducted detailed network traffic analysis using Wireshark within an Azure environment, focusing on securing virtual networks with Network Security Groups and analyzing protocols like SSH, RDP, and HTTPS. This experience advanced my skills in network security and traffic management on both Windows and Linux platforms (Ubuntu Server 20.04).
+<h2>Environments and Technologies Used</h2>
+- Microsoft Azure (Virtual Machines/Compute)
+- Remote Desktop
+- Internet Information Services (IIS)
+- Active Directory Domain Services
+- PowerShell
+- Wireshark (Protocol Analyzer)
+- Various Command-Line Tools
 
-These initiatives have provided me with robust practical experience in managing Azure-based solutions, optimizing compute resources, and ensuring network security, positioning me well for advanced roles in cloud services and infrastructure management.
+<h2>Operating Systems Used </h2>
+- Windows 10 (21H2)
+- Windows Server 2022
+- Ubuntu Server 20.04
+
+<h2>Project Details</h2>
+
+<h3>1. osTicket: Help Desk Ticketing System</h3>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="osTicket Installation"/>
+</p>
+<p>
+- Installation and configuration of open-source help desk ticketing system osTicket
+- Explored prerequisites, installation process, and post-installation configuration
+- Examined ticket lifecycle examples
+</p>
+<br />
+
+<h3>2. Active Directory Configuration in Azure VMs</h3>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Active Directory Setup"/>
+</p>
+<p>
+- Configured on-premises Active Directory within Azure Virtual Machines
+- Utilized Windows Server 2022 and Windows 10
+- Employed Remote Desktop, Active Directory Domain Services, and PowerShell
+</p>
+<br />
+
+<h3>3. Network Security and Traffic Analysis</h3>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Network Analysis"/>
+</p>
+<p>
+- Observed network traffic between Azure Virtual Machines using Wireshark
+- Experimented with Network Security Groups (NSGs)
+- Analyzed various network protocols (SSH, RDP, DNS, HTTP/S, ICMP)
+- Used both Windows 10 and Ubuntu Server 20.04 operating systems
+</p>
+<br />
+
+<h2>Skills Developed</h2>
+- Azure Virtual Machine management
+- Remote desktop connections
+- Windows and Linux server administration
+- Network security configuration
+- Traffic analysis
+- Help desk software management
+- Active Directory setup and management
